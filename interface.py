@@ -11,7 +11,7 @@ app = Flask(__name__)
 def hello_flask():
     print("Welcome to Flask")
     # return render_template("home.html")
-    return 'Hello Python'
+    return 'Hello'
 
 #################################################################################
 
